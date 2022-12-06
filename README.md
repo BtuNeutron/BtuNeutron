@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BtuNeutron
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning python, c and opencv
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me with Linkedin, instagram and mail
 <!---
 BtuNeutron/BtuNeutron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
